@@ -1,2 +1,3 @@
 # NativeDOMParser
-A native mulit-platform DOM Parser using WebBrowser/WebView.
+
+Use native JavaScript DOM Parser in multi-platform using WebBrowser/WebView.
